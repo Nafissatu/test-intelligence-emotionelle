@@ -152,7 +152,7 @@ function App() {
               name="q3"
               value="4"
               checked={answers.q3 === 4}
-              onChange={() => handleChange('q1', '4')}
+              onChange={() => handleChange('q3', '4')}
             />
             Exceptionnellement
           </label>
