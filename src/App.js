@@ -22,8 +22,8 @@ function App() {
   return (
     <div className="App">
       <main>
-      <header>
-        <img src={logo} alt="My Company Logo" className="logo" />
+      <header className ="App-header">
+        <p>Ecole du LEADERSHIP</p>
         <h1>Test d’Intelligence Émotionnelle </h1>
         <p>Sous chaque affirmation, Selectionnez 1. pour Souvent 2. pour Parfois 3. pour Rarement et 4. Exceptionnellement.</p>
       </header>

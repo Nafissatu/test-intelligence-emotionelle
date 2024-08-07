@@ -59,7 +59,13 @@ main {
   margin-top: 20px;
   max-width: 100%;
 }
-.logo {
-  max-width:100% ; /* Adjust the size as needed */
-  height: max-content; /* Maintain aspect ratio */
+.App-header {
+  background-color: #052464;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  position: center;
+  bottom: 0;
+  margin-bottom: 20px;
+  max-width: 100%;
 }
