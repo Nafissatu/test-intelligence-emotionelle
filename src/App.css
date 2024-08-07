@@ -1,38 +1,65 @@
 .App {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  max-width: 600px;
+  margin: auto;
+  background-color: whitesmoke;
+}
+
+h1 {
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+form {
+  margin: 0 auto;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+fieldset {
+  border: 1px solid #052464;
+  padding: 10px;
+  margin-bottom: 10px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+legend {
+  font-weight: bold;
+}
+
+label {
+  display: block;
+  margin: 5px 0;
+}
+
+button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color:darkgray;
+}
+
+.result {
+  font-size: 18px;
+  margin-top: 20px;
+  text-align: center;
+  color:#052464;
+}
+
+main {
+  flex: 1;
+}
+
+.App-footer {
+  background-color: #052464;
   color: white;
+  text-align: center;
+  padding: 10px;
+  position: center;
+  bottom: 0;
+  margin-top: 20px;
+  max-width: 600px;
 }
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.logo {
+  max-width:600px ; /* Adjust the size as needed */
+  height: max-content; /* Maintain aspect ratio */
 }
