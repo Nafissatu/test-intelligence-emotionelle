@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/test-intelligence-emotionelle/static/css/main.e51d9972.css",
-    "main.js": "/test-intelligence-emotionelle/static/js/main.58eea9a1.js",
+    "main.css": "/test-intelligence-emotionelle/static/css/main.e7062d2c.css",
+    "main.js": "/test-intelligence-emotionelle/static/js/main.fa10486d.js",
     "static/js/453.3fb62902.chunk.js": "/test-intelligence-emotionelle/static/js/453.3fb62902.chunk.js",
-    "static/media/logo.png": "/test-intelligence-emotionelle/static/media/logo.b29a051db57e156d3625.png",
     "index.html": "/test-intelligence-emotionelle/index.html",
-    "main.e51d9972.css.map": "/test-intelligence-emotionelle/static/css/main.e51d9972.css.map",
-    "main.58eea9a1.js.map": "/test-intelligence-emotionelle/static/js/main.58eea9a1.js.map",
+    "main.e7062d2c.css.map": "/test-intelligence-emotionelle/static/css/main.e7062d2c.css.map",
+    "main.fa10486d.js.map": "/test-intelligence-emotionelle/static/js/main.fa10486d.js.map",
     "453.3fb62902.chunk.js.map": "/test-intelligence-emotionelle/static/js/453.3fb62902.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e51d9972.css",
-    "static/js/main.58eea9a1.js"
+    "static/css/main.e7062d2c.css",
+    "static/js/main.fa10486d.js"
   ]
 }
